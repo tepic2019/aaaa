@@ -2,3 +2,27 @@
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Las Estrellas Latin America (1080p)
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America (1080p)
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
+#EXTINF:-1 tvg-id="LosarchivosdelFBI.us@Spain" tvg-logo="https://i.imgur.com/eDCdJO2.png" group-title="Series",Los archivos del FBI
+https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us@SD" tvg-logo="https://i.imgur.com/1WDFKF0.png" group-title="Series",Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="Series",Misterios sin Resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="Series",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@US" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Series",Pluto TV Novelas
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="Series",Pluto TV Novelas de MÃ©xico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Classic",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Classic",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
