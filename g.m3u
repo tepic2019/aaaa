@@ -36,10 +36,6 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p) [Not 24/7]
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="https://i.imgur.com/Ybp6YKD.png" group-title="Legislative",Access Media Productions Peninsula Channel (720p)
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
-
-
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
