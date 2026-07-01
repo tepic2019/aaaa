@@ -239,3 +239,12 @@ https://jmp2.uk/rok-8d6cc93830ae093f8316777c135237d9.m3u8
 
 #EXTINF:-1 channel-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-chno="1049" tvg-name="Runtime Sangre Fría" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c39d021ed8c95682a82ce6077ac0ab47/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748485001772_Sangre_Fria_HUD_260x147.png" group-title="General",Runtime Sangre Fría
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
+
+#EXTINF:-1 channel-id="098bce44be895630a3e437516fe70853" tvg-id="098bce44be895630a3e437516fe70853" tvg-chno="947" tvg-name="Naturaleza Salvaje" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/098bce44be895630a3e437516fe70853/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704747063109_NaturalezaSalvaje_Image_HUD2.png" group-title="General",Naturaleza Salvaje
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+
+
+#EXTINF:-1 channel-id="e6416436e5d6510e9e22c23862deea23" tvg-id="e6416436e5d6510e9e22c23862deea23" tvg-chno="451" tvg-name="Tastemade" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6416436e5d6510e9e22c23862deea23/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1732826277678_260x147_hex-efefef_CENTER_TastemadeFood.png" group-title="General",Tastemade
+https://jmp2.uk/rok-e6416436e5d6510e9e22c23862deea23.m3u8
+
+
