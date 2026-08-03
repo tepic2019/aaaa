@@ -48,6 +48,10 @@ https://jmp2.uk/stvp-USBA300017PK
 https://jmp2.uk/stvp-USBD17000025J
 #EXTINF:-1 channel-id="USBA2300001S8" tvg-id="USBA2300001S8" tvg-chno="3687" tvg-name="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Kids",The LEGO Channel
 https://jmp2.uk/stvp-USBA2300001S8
+#EXTINF:-1 channel-id="USBB3500002FL" tvg-id="USBB3500002FL" tvg-chno="1595" tvg-name="TV Land Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png" group-title="Action & Drama",TV Land Drama
+https://jmp2.uk/stvp-USBB3500002FL
+#EXTINF:-1 channel-id="USBA300019WF" tvg-id="USBA300019WF" tvg-chno="2670" tvg-name="TV Land Sitcoms" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20241112T000748SQUARE.png" group-title="Comedy",TV Land Sitcoms
+https://jmp2.uk/stvp-USBA300019WF
 
 
 
