@@ -42,6 +42,10 @@ https://jmp2.uk/stvp-USBB40000028E
 https://jmp2.uk/stvp-USBD1200007FE
 #EXTINF:-1 channel-id="USAJ26000054W" tvg-id="USAJ26000054W" tvg-chno="1250" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" group-title="Movies",Paramount Movie Channel
 https://jmp2.uk/stvp-USAJ26000054W
+#EXTINF:-1 channel-id="USBA300017PK" tvg-id="USBA300017PK" tvg-chno="1235" tvg-name="Pluto TV Fantastic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20241112T000721SQUARE.png" group-title="Movies",Pluto TV Fantastic
+https://jmp2.uk/stvp-USBA300017PK
+#EXTINF:-1 channel-id="USBD17000025J" tvg-id="USBD17000025J" tvg-chno="2489" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="Sports & Outdoors",Pursuit UP
+https://jmp2.uk/stvp-USBD17000025J
 
 
 
