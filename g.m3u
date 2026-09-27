@@ -290,6 +290,60 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887703
 #EXTINF:-1 group-title="General",Royalworld - Nobleza y Dinastias
 https://0d52ebebf45d42fbb3e5bf57eba27157.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa_RoyalworldNoblezayDinastias/playlist.m3u8?ads.wurl_channel=1622&ads.wurl_name=RoyalworldNoblezayDinastias&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.w=&ads.h=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9288
 
+#EXTINF:-1 channel-id="USBC600018CF" tvg-id="USBC600018CF" tvg-chno="2044" tvg-name="Antiques Roadshow" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600018CF_20240520T221408SQUARE.png" group-title="Home & Food",Antiques Roadshow
+https://jmp2.uk/stvp-USBC600018CF
+#EXTINF:-1 channel-id="US2200005Y2" tvg-id="US2200005Y2" tvg-chno="3920" tvg-name="Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title="Latino",Canal ViX
+https://jmp2.uk/stvp-US2200005Y2
+#EXTINF:-1 channel-id="USAJ3504545A" tvg-id="USAJ3504545A" tvg-chno="2550" tvg-name="Cars" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png" group-title="Motor Sports",Cars
+https://jmp2.uk/stvp-USAJ3504545A
+#EXTINF:-1 channel-id="USBA370000104" tvg-id="USBA370000104" tvg-chno="1110" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20251118T230104SQUARE.png" group-title="News & Opinion",CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1 channel-id="US4600005ST" tvg-id="US4600005ST" tvg-chno="3818" tvg-name="CG MMA En Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20250428T223427SQUARE.png" group-title="Latino",CG MMA En Español
+https://jmp2.uk/stvp-US4600005ST
+#EXTINF:-1 channel-id="USBD2700005KL" tvg-id="USBD2700005KL" tvg-chno="3970" tvg-name="Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20241228T011503SQUARE.png" group-title="Latino",Cine de Oro
+https://jmp2.uk/stvp-USBD2700005KL
+#EXTINF:-1 channel-id="USBD2500022U5" tvg-id="USBD2500022U5" tvg-chno="3965" tvg-name="Cine Retro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20241228T011501SQUARE.png" group-title="Latino",Cine Retro
+https://jmp2.uk/stvp-USBD2500022U5
+#EXTINF:-1 channel-id="USBA3800001E0" tvg-id="USBA3800001E0" tvg-chno="3990" tvg-name="Cine Romantico" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" group-title="Latino",Cine Romantico
+https://jmp2.uk/stvp-USBA3800001E0
+#EXTINF:-1 channel-id="US4600006R8" tvg-id="US4600006R8" tvg-chno="2356" tvg-name="Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png" group-title="Sports & Outdoors",Combate Global MMA
+https://jmp2.uk/stvp-US4600006R8
+#EXTINF:-1 channel-id="US2200001IY" tvg-id="US2200001IY" tvg-chno="3878" tvg-name="Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Latino",Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+#EXTINF:-1 channel-id="US22000020U" tvg-id="US22000020U" tvg-chno="3880" tvg-name="Curiosity Explora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="Latino",Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1 channel-id="US2200003ZN" tvg-id="US2200003ZN" tvg-chno="3873" tvg-name="Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="Latino",Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
+#EXTINF:-1 channel-id="USBA3700002JF" tvg-id="USBA3700002JF" tvg-chno="2966" tvg-name="ET" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20240521T001305SQUARE.png" group-title="Lifestyle & Pop Culture",ET
+https://jmp2.uk/stvp-USBA3700002JF
+#EXTINF:-1 channel-id="USBA3800004EL" tvg-id="USBA3800004EL" tvg-chno="4587" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="Ambiance",Fireplace Vibes
+https://jmp2.uk/stvp-USBA3800004EL
+#EXTINF:-1 channel-id="USBD4200008RS" tvg-id="USBD4200008RS" tvg-chno="2020" tvg-name="Flipping Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20250909T002810SQUARE.png" group-title="Home & Food",Flipping Nation
+https://jmp2.uk/stvp-USBD4200008RS
+#EXTINF:-1 channel-id="US2600019IC" tvg-id="US2600019IC" tvg-chno="3810" tvg-name="Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino",Historia
+https://jmp2.uk/stvp-US2600019IC
+#EXTINF:-1 channel-id="US2900015RO" tvg-id="US2900015RO" tvg-chno="3676" tvg-name="Kartoon Channel!" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png" group-title="Kids",Kartoon Channel!
+https://jmp2.uk/stvp-US2900015RO
+#EXTINF:-1 channel-id="USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-chno="1285" tvg-name="Maverick Black Cinema" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20251028T010959SQUARE.png" group-title="Movies",Maverick Black Cinema
+https://jmp2.uk/stvp-USAJ3000007MT
+#EXTINF:-1 channel-id="USBB5200028MM" tvg-id="USBB5200028MM" tvg-chno="3010" tvg-name="Mysteries Xplored" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20250325T015240SQUARE.png" group-title="Sci-Fi & Horror",Mysteries Xplored
+https://jmp2.uk/stvp-USBB5200028MM
+#EXTINF:-1 channel-id="USBB40000028E" tvg-id="USBB40000028E" tvg-chno="2032" tvg-name="NBC LX Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20250325T014929SQUARE.png" group-title="Home & Food",NBC LX Home
+https://jmp2.uk/stvp-USBB40000028E
+#EXTINF:-1 channel-id="USBD1200007FE" tvg-id="USBD1200007FE" tvg-chno="3030" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Horror",OuterSphere
+https://jmp2.uk/stvp-USBD1200007FE
+#EXTINF:-1 channel-id="USAJ26000054W" tvg-id="USAJ26000054W" tvg-chno="1250" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/stvp-USAJ26000054W
+#EXTINF:-1 channel-id="USBA300017PK" tvg-id="USBA300017PK" tvg-chno="1235" tvg-name="Pluto TV Fantastic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20241112T000721SQUARE.png" group-title="Movies",Pluto TV Fantastic
+https://jmp2.uk/stvp-USBA300017PK
+#EXTINF:-1 channel-id="USBD17000025J" tvg-id="USBD17000025J" tvg-chno="2489" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="Sports & Outdoors",Pursuit UP
+https://jmp2.uk/stvp-USBD17000025J
+#EXTINF:-1 channel-id="USBA2300001S8" tvg-id="USBA2300001S8" tvg-chno="3687" tvg-name="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Kids",The LEGO Channel
+https://jmp2.uk/stvp-USBA2300001S8
+#EXTINF:-1 channel-id="USBB3500002FL" tvg-id="USBB3500002FL" tvg-chno="1595" tvg-name="TV Land Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png" group-title="Action & Drama",TV Land Drama
+https://jmp2.uk/stvp-USBB3500002FL
+#EXTINF:-1 channel-id="USBA300019WF" tvg-id="USBA300019WF" tvg-chno="2670" tvg-name="TV Land Sitcoms" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20241112T000748SQUARE.png" group-title="Comedy",TV Land Sitcoms
+https://jmp2.uk/stvp-USBA300019WF
 
 #EXTINF:-1 group-title="General",The Bionic Woman (GB)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=699ad316d9f58806d9064cc7&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=Action&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=TV-14&AV_CLIENT_SECTION=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP_The%20Bionic%20Woman%20EN&content_channel_name=The%20Bionic%20Woman%20EN&content_livestream=1&AV_CONTENT_PROVIDER=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10203
